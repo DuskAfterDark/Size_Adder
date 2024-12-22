@@ -1,5 +1,5 @@
 # Sizer Adder
-Sizer Adder is a user-friendly GUI tool for resizing files by adding arbitrary sizes to them. Built with Python's tkinter library, this tool provides a simple and modern interface, featuring dark and light modes, and a smooth, glowing rainbow effect for application files.
+Sizer Adder is a user-friendly GUI tool for resizing files by adding arbitrary sizes to them. Built with Python's tkinter library, this tool provides a simple and modern interface, featuring dark and light modes, application files.
 
 # Features
 
