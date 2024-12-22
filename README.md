@@ -1,7 +1,8 @@
 # Size Adder
+
 Size Adder is a user-friendly GUI tool for resizing files by adding arbitrary sizes to them. Built with Python's tkinter library, this tool provides a simple and modern interface, featuring dark and light modes, application files.
 
-# Features
+## Features
 
  > Resizable UI: The application window is scalable, adapting to different screen sizes.
 
@@ -11,7 +12,7 @@ Size Adder is a user-friendly GUI tool for resizing files by adding arbitrary si
 
  > Customizable File Sizing
 
-# How to Use
+## How to Use
 
  > Launch the application.
 
@@ -23,10 +24,15 @@ Size Adder is a user-friendly GUI tool for resizing files by adding arbitrary si
 
  > The selected file's size will increase by the specified amount.
 
-# Disclaimer
+## Disclaimer
 
 **DO NOT ADD OVER 200 GB OR ELSE YOUR PC MAY CRASH!**
 
-# Contributing
+## Contributing
 
 Feel free to open issues or submit pull requests.
+
+## Download Now
+
+You can download the latest version from the [releases page](https://github.com/your-repo/sizer-adder/releases).
+
