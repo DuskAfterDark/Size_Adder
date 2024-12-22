@@ -25,11 +25,7 @@ Sizer Adder is a user-friendly GUI tool for resizing files by adding arbitrary s
 
 # Disclaimer
 
-DO NOT ADD OVER 200 GB OR ELSE YOUR PC MAY CRASH!
-
-# License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+**DO NOT ADD OVER 200 GB OR ELSE YOUR PC MAY CRASH!**
 
 # Contributing
 
